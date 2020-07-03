@@ -4,3 +4,5 @@ Bash tool to automatically deploy a fully functional Cowrie honeypot. Tested on 
 The tool requires some user inputs, but the deployment process is completely automated.
 
 Cowrie honeypot documentation can be found [here](https://cowrie.readthedocs.io/en/latest/index.html)
+
+All credit for Cowrie honeypot goes to Michel Oosterhof.
