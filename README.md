@@ -1,10 +1,19 @@
 # cowrie_setup_tool
 ## Description
+
 Bash tool to automatically deploy a fully functional Cowrie honeypot. Tested on Ubuntu 19.10 LTS. Not compatible with Ubuntu 20+.
 
 The tool requires some user inputs, but the deployment process is completely automated.
 
 Cowrie honeypot documentation can be found [here](https://cowrie.readthedocs.io/en/latest/index.html)
+
+## Usage
+**Copy the txt files' contents into .sh files before executing anything**
+
+**Execute with**
+```
+sudo bash FILENAME.sh
+```
 
 
 ## Optional: elk-setup-tool
