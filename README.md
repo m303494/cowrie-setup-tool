@@ -8,7 +8,7 @@ Cowrie honeypot documentation can be found [here](https://cowrie.readthedocs.io/
 
 
 ## Optional: elk-setup-tool
-After successfully deploying Cowrie honeypot with the previous tool, we can install ELK to process Cowrie's output with elk-setup-tool. The installation will take around 15 minutes and will need of a little bit of user interaction.
+After successfully deploying Cowrie honeypot with the previous tool, we can install ELK to process Cowrie's output with elk_setup_tool. The installation will take around 15 minutes and will need of a little bit of user interaction.
 After the installation, go to localhost:80 and refresh until you get "Kibana server is not ready yet" (takes about 2-3 minutes). After that, wait a minute and refresh the page.
 
 Get GeoIP data from www.maxmind.com. After registering, log into your account and go to "Download databases". There, download the GeoLite2 City GZIP, extract it and cd into the mmdb file location. Then execute:
