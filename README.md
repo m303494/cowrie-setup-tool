@@ -1,4 +1,4 @@
-# cowrie-setup-tool
+# cowrie_setup_tool
 ## Description
 Bash tool to automatically deploy a fully functional Cowrie honeypot. Tested on Ubuntu 19.10 LTS. Not compatible with Ubuntu 20+.
 
