@@ -8,11 +8,10 @@ The tool requires some user inputs, but the deployment process is completely aut
 Cowrie honeypot documentation can be found [here](https://cowrie.readthedocs.io/en/latest/index.html)
 
 ## Usage
-**Copy the txt files' contents into .sh files before executing anything**
-
-**Execute with**
+**Execute the bash files with**
 ```
-sudo bash FILENAME.sh
+sudo bash cowrie_setup_tool.sh
+sudo bash elk_setup_tool.sh
 ```
 
 
